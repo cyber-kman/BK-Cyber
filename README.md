@@ -1,5 +1,5 @@
 # Hi, I'm Brandon
-<a href="https://linkedin.com/brandon-mcleod"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/brandon-mcleod"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
 I'm a recent college graduate with a B.S. in Information Systems and Cybersecurity Operations. I have a passion for technology and solving complex problems. I'm aiming to move on from the help desk into cybersecurity such as SOC Analyst or IAM specialist.
